@@ -1,6 +1,6 @@
 Olá, meu nome é Matheus!
 
--> Faço o 3° ano do ensino médio na Cotemig
+-> Estou no primeiro ano de ciêncas da computação.
 
 -> Experiência em: Php, Mysql , Planilhas/Excel, Html Css, C#, Blazor, Montagem de Computador.
 <!--
