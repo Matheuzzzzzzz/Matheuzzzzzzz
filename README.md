@@ -1,6 +1,6 @@
 Olá, meu nome é Matheus!
 
--> Estou no primeiro ano de ciêncas da computação.
+-> Estou no primeiro período de ciêncas da computação.
 
 -> Experiência em: Php, Mysql , Planilhas/Excel, Html Css, C#, Blazor, Montagem de Computador.
 <!--
